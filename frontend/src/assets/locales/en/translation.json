@@ -1,0 +1,12 @@
+{
+  "home": {
+    "hello": "Hello!"
+  },
+  "login": {
+    "email_label": "E-mail",
+    "password_label": "Password",
+    "email_placeholder": "Your e-mail",
+    "password_placeholder": "Your password",
+    "login_button": "Login"
+  }
+}

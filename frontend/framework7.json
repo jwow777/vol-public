@@ -1,0 +1,26 @@
+{
+  "cwd": "C:\\Users\\asus\\Desktop\\nodeprojects\\vol_messenger\\frontend",
+  "type": [
+    "pwa"
+  ],
+  "name": "VOL Messenger",
+  "framework": "react",
+  "template": "blank",
+  "bundler": "webpack",
+  "cssPreProcessor": "scss",
+  "theming": {
+    "customColor": true,
+    "color": "#679afd",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false,
+  "webpack": {
+    "developmentSourceMap": true,
+    "productionSourceMap": true,
+    "hashAssets": false,
+    "preserveAssetsPaths": false,
+    "inlineAssets": true
+  }
+}

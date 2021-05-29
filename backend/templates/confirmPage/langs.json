@@ -1,0 +1,26 @@
+{
+    "ru": {
+        "success": {
+            "title": "Спасибо!",
+            "text": "Ваш аккаунт активирован.",
+            "page_title": "Аккаунт активирован"
+        },
+        "error": {
+            "title": "Ошибка!",
+            "text": "Ссылка недействительна.",
+            "page_title": "Ошибка"
+        }
+    },
+    "en": {
+        "success": {
+            "title": "Thank you!",
+            "text": "Your account has been activated.",
+            "page_title": "Account activated"
+        },
+        "error": {
+            "title": "Error!",
+            "text": "This link is invalid.",
+            "page_title": "Error"
+        }
+    }
+}

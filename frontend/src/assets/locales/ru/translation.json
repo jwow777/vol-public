@@ -1,0 +1,12 @@
+{
+  "home": {
+    "hello": "Привет!"
+  },
+  "login": {
+    "email_label": "E-mail",
+    "password_label": "Пароль",
+    "email_placeholder": "Ваш e-mail",
+    "password_placeholder": "Ваш пароль",
+    "login_button": "Войти"
+  }
+}

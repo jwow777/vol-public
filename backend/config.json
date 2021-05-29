@@ -1,0 +1,38 @@
+{
+    "port": 3000,
+    "security": {
+        "tokenLife" : 3600
+    },
+    "mongoose": {
+        "uri": "mongodb://localhost:27017/vol_messenger"
+    },
+    "backend_domain": "http://localhost:3000/",
+    "frontend_domain": "http://localhost:8080/",
+    "lk_url": "https://lk.qexsystems.ru/",
+    "email": {
+        "host": "smtp.yandex.ru",
+        "port": 587,
+        "secure": false,
+        "auth": {
+            "user": "noreply@qexsystems.ru",
+            "pass": "NXkpXQ6p"
+        },
+        "from": "\"VOL Messenger\" <noreply@qexsystems.ru>"
+    },
+    "jwtSecret" : "jwtsecrettt",
+    "default": {
+        "user": {
+            "email": "admin@vol.bz",
+            "password": "admin",
+            "confirmed": true
+        },
+        "client": {
+            "name": "VOL WEB",
+            "clientId": "vol_web",
+            "clientSecret": "IncrediblySecret",
+            "type": "site",
+            "verified": true,
+            "official": true
+        }
+    }
+}
